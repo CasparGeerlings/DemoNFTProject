@@ -48,3 +48,6 @@ async function mintNFT(tokenURI) {
         console.log(" Promise failed:", err)
     })
 }
+
+// TODO: Make this dynamic
+mintNFT("https://gateway.pinata.cloud/ipfs/QmRHPmrq1mYhHSEXvLRpBbs5f4toawgV3qUur3TwRDtUrd")
