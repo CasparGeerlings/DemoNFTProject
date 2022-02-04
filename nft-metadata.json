@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "Farm"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Regular"
+    }
+  ],
+  "description": "The world's coolest sheep.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmTVLmGhdLhuLygXZBmQ35CteNkXDvZT5xsKK7uqMB63r9",
+  "name": "Chris"
+}
