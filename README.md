@@ -1,15 +1,12 @@
-# Basic Sample Hardhat Project
+# Demo NFT Project
+## By Caspar Geerlings
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+This project is built for educational purposes. 
+This project will let you mint NFTs on the Ethereum blockchain.
+# Stack
+- Solidity
+- Javascript
+## Tools
+- [Hardhat](https://hardhat.org/)
+- [Pinata](https://pinata.cloud/)
+- [Alchemy](https://alchemy.com/)
